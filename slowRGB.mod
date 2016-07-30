@@ -1,0 +1,307 @@
+PCBNEW-LibModule-V1  Tue 17 Mar 2015 09:57:47 PM PDT
+# encoding utf-8
+Units mm
+$INDEX
+6A_switch
+Coding_switch
+Jack 2mm
+Jack_2mm
+POT
+RGB_24W
+TD718
+jumper_2
+$EndINDEX
+$MODULE 6A_switch
+Po 0 0 0 15 550902F8 00000000 ~~
+Li 6A_switch
+Sc 0
+AR 
+Op 0 0 0
+T0 0.0508 -3.4544 1 1 0 0.15 N V 21 N "6A_switch"
+T1 0.0508 2.9464 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "1" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.5 0
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.5 0
+$EndPAD
+$EndMODULE 6A_switch
+$MODULE Coding_switch
+Po 0 0 0 15 550905C6 00000000 ~~
+Li Coding_switch
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.1524 11.176 1 1 0 0.15 N V 21 N "Coding_switch"
+T1 0.0508 -3.9116 1 1 0 0.15 N V 21 N "VAL**"
+DC -0.0508 -0.0508 8.9916 -0.4572 0.15 21
+$PAD
+Sh "3" O 2.5 1.8 0 0 0
+Dr 1.6 0 0 O 1.6 0.8
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -9.144
+$EndPAD
+$PAD
+Sh "1" O 1.8 2.5 0 0 0
+Dr 0.8 0 0 O 0.8 1.6
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9.0424 0
+$EndPAD
+$PAD
+Sh "5" O 1.8 2.5 0 0 0
+Dr 0.8 0 0 O 0.8 1.6
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.9916 -0.0508
+$EndPAD
+$PAD
+Sh "2" C 2.5 2.5 0 0 0
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.36 -6.36
+$EndPAD
+$PAD
+Sh "4" C 2.5 2.5 0 0 0
+Dr 1.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.36 -6.36
+$EndPAD
+$EndMODULE Coding_switch
+$MODULE Jack 2mm
+Po 0 0 0 15 5508F231 00000000 ~~
+Li Jack 2mm
+Sc 0
+AR 
+Op 0 0 0
+T0 -7.2644 -2.5908 1 1 900 0.15 N V 21 N "Jack 2mm"
+T1 8.0264 -2.1844 1 1 900 0.15 N V 21 N "VAL**"
+DS -3.2004 -8.5344 -3.3401 2.7813 0.15 21
+DS -3.3401 2.7813 3.2512 2.6924 0.15 21
+DS 3.2512 2.6924 3.3528 -8.636 0.15 21
+$PAD
+Sh "3" R 1.8 7.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 -3.05
+$EndPAD
+$PAD
+Sh "2" R 1.8 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 0
+$EndPAD
+$PAD
+Sh "1" R 1.8 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 -6.1
+$EndPAD
+$PAD
+Sh "" C 2.2 2.2 0 0 0
+Dr 2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -6.1
+$EndPAD
+$PAD
+Sh "" C 2.2 2.2 0 0 0
+Dr 2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.6
+$EndPAD
+$EndMODULE Jack 2mm
+$MODULE Jack_2mm
+Po 0 0 0 15 5508F231 00000000 ~~
+Li Jack_2mm
+Sc 0
+AR 
+Op 0 0 0
+T0 -7.2644 -2.5908 1 1 900 0.15 N V 21 N "Jack 2mm"
+T1 8.0264 -2.1844 1 1 900 0.15 N V 21 N "VAL**"
+DS -3.2004 -8.5344 -3.3401 2.7813 0.15 21
+DS -3.3401 2.7813 3.2512 2.6924 0.15 21
+DS 3.2512 2.6924 3.3528 -8.636 0.15 21
+$PAD
+Sh "3" R 1.8 7.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 -3.05
+$EndPAD
+$PAD
+Sh "2" R 1.8 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 0
+$EndPAD
+$PAD
+Sh "1" R 1.8 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 -6.1
+$EndPAD
+$PAD
+Sh "" C 2.2 2.2 0 0 0
+Dr 2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -6.1
+$EndPAD
+$PAD
+Sh "" C 2.2 2.2 0 0 0
+Dr 2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.6
+$EndPAD
+$EndMODULE Jack_2mm
+$MODULE POT
+Po 0 0 0 15 550901CF 00000000 ~~
+Li POT
+Sc 0
+AR 
+Op 0 0 0
+T0 9.3472 2.8956 1 1 0 0.15 N V 21 N "POT"
+T1 9.7028 -3.048 1 1 0 0.15 N V 21 N "VAL**"
+DS -4.4196 -1.6256 22.098 -1.6256 0.15 21
+DS 22.098 -1.6256 22.0472 1.3208 0.15 21
+DS 22.0472 1.3208 -4.4196 1.4732 0.15 21
+DS -4.4196 1.4732 -4.4196 -1.6764 0.15 21
+$PAD
+Sh "2" O 2.2 1.5 0 0 0
+Dr 1.8 0 0 O 1.8 0.8
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "1" O 2.2 1.5 0 0 0
+Dr 1.8 0 0 O 1.8 0.8
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" O 2.2 1.5 0 0 0
+Dr 1.8 0 0 O 1.8 0.8
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20 0
+$EndPAD
+$EndMODULE POT
+$MODULE RGB_24W
+Po 0 0 0 15 5508F5B7 00000000 ~~
+Li RGB_24W
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.0508 3.6576 1 1 0 0.15 N V 21 N "RGB_24W"
+T1 0.0508 -4.3688 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "1" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 0
+$EndPAD
+$PAD
+Sh "2" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "3" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "4" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 0
+$EndPAD
+$EndMODULE RGB_24W
+$MODULE TD718
+Po 0 0 0 15 5508F6E7 00000000 ~~
+Li TD718
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.0508 2.2352 1 1 0 0.15 N V 21 N "TD718"
+T1 -0.0508 -2.6416 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "3" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.45 0
+$EndPAD
+$PAD
+Sh "1" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.45 0
+$EndPAD
+$EndMODULE TD718
+$MODULE jumper_2
+Po 0 0 0 15 5508F4F4 00000000 ~~
+Li jumper_2
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.794 1 1 0 0.15 N V 21 N "jumper_2"
+T1 0 3.2004 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "2" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$PAD
+Sh "1" C 1.6 1.6 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$EndMODULE jumper_2
+$EndLIBRARY

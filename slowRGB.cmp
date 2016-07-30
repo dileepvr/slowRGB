@@ -1,0 +1,241 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Fri 20 Mar 2015 08:08:14 PM PDT
+
+BeginCmp
+TimeStamp = /54FE5D27;
+Reference = C1;
+ValeurCmp = 100U;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE5D1A;
+Reference = C2;
+ValeurCmp = 10U;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE63A1;
+Reference = C3;
+ValeurCmp = 1U;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE755F;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6-DR;
+IdModule  = AVR-ISP-6-DR;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE5D2F;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE6542;
+Reference = D2;
+ValeurCmp = STATUS_LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE652F;
+Reference = D3;
+ValeurCmp = STATUS_LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE653C;
+Reference = D4;
+ValeurCmp = STATUS_LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE597A;
+Reference = IC1;
+ValeurCmp = ATMEGA328-P;
+IdModule  = DIP-28__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE5CCD;
+Reference = J1;
+ValeurCmp = JACK_2P;
+IdModule  = Jack_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FFBAB3;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = jumper_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE6256;
+Reference = Q1;
+ValeurCmp = TD718;
+IdModule  = TD718;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE6263;
+Reference = Q2;
+ValeurCmp = TD718;
+IdModule  = TD718;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE6269;
+Reference = Q3;
+ValeurCmp = TD718;
+IdModule  = TD718;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE7200;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE7206;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE720C;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE64E6;
+Reference = R4;
+ValeurCmp = 5K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE6BB0;
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE69FB;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE70ED;
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE64FF;
+Reference = R8;
+ValeurCmp = 15K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE70F3;
+Reference = R9;
+ValeurCmp = 1K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /550CD63B;
+Reference = R10;
+ValeurCmp = 200;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /550CD671;
+Reference = R11;
+ValeurCmp = 200;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /550CD677;
+Reference = R12;
+ValeurCmp = 200;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /550CDB63;
+Reference = R13;
+ValeurCmp = 0;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /550CE06C;
+Reference = R14;
+ValeurCmp = 0;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE60B1;
+Reference = RGBL1;
+ValeurCmp = RGB_LED_POS;
+IdModule  = RGB_24W;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE613A;
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = POT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE612D;
+Reference = RV2;
+ValeurCmp = POT;
+IdModule  = POT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE5CFA;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = 6A_switch;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE61AE;
+Reference = SW2;
+ValeurCmp = CODING_SWITCH;
+IdModule  = Coding_switch;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE5D68;
+Reference = U1;
+ValeurCmp = LM7805CT;
+IdModule  = TO220_VERT;
+EndCmp
+
+EndListe
